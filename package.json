@@ -1,0 +1,17 @@
+{
+  "name": "mysql-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.6.0",
+    "mysql": "^2.18.1",
+    "pg": "^8.0.0",
+    "q": "^1.5.1"
+  }
+}
